@@ -1,0 +1,12 @@
+{
+    "date": "2026-04-13T15:28:44+00:00",
+    "action": "talentshow",
+    "user_id": 835,
+    "source_meta": "_talentshow_entry",
+    "source_meta_id": 33951,
+    "xp": {
+        "action": "talentshow",
+        "xp_gained": 5000000,
+        "status": "submitted"
+    }
+}
