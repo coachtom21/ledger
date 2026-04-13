@@ -4,8 +4,5 @@
     "order_id": 5744,
     "order_number": "5744",
     "order_total": "12.00",
-    "currency": "USD",
-    "order_status": "pending",
-    "payment_method": "preorder",
-    "exported_at": "2026-04-13T11:21:13+00:00"
+    "currency": "USD"
 }
