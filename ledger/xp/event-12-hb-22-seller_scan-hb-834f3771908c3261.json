@@ -1,0 +1,27 @@
+{
+    "user_id": 12,
+    "action": "seller-scan",
+    "date": "2026-05-01T10:53:38+00:00",
+    "site": "humanblockchain",
+    "xp": {
+        "action": "seller_scan",
+        "xp_gained": "30000000000000000000000",
+        "status": "completed"
+    },
+    "order_id": 180,
+    "transaction_id": "HB-834F3771908C3261",
+    "counterparty_user_id": 12,
+    "entry": {
+        "transaction_id": "HB-834F3771908C3261",
+        "xp_units": "30000000000000000000000",
+        "scan_status": "completed",
+        "date": "2026-05-01 10:53:38",
+        "order_id": 180,
+        "buyer_wp_user_id": 12,
+        "scan_location": {
+            "lat": 27.6671792,
+            "lng": 85.3087997
+        },
+        "scan_time": 1777632437
+    }
+}
