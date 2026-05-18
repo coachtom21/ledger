@@ -1,0 +1,23 @@
+{
+    "user_id": 12,
+    "action": "seller-scan",
+    "date": "2026-05-01T10:34:01+00:00",
+    "site": "humanblockchain",
+    "xp": {
+        "action": "seller_scan",
+        "xp_gained": "30000000000000000000000",
+        "status": "pending"
+    },
+    "transaction_id": "HB-FAEB35FF29C31D94",
+    "entry": {
+        "transaction_id": "HB-FAEB35FF29C31D94",
+        "xp_units": "30000000000000000000000",
+        "scan_status": "pending",
+        "scan_time": 1777631641,
+        "scan_location": {
+            "lat": 27.6672757,
+            "lng": 85.3087351
+        },
+        "date": "2026-05-01 10:34:01"
+    }
+}
