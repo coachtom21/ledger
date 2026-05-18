@@ -1,0 +1,20 @@
+{
+    "user_id": 9,
+    "action": "seller-scan",
+    "date": "2026-04-16T05:20:26+00:00",
+    "site": "humanblockchain",
+    "xp": {
+        "action": "seller_scan",
+        "xp_gained": "30000000000000000000000",
+        "status": "completed"
+    },
+    "order_id": 5761,
+    "transaction_id": "HB-3000853E74C36485",
+    "entry": {
+        "transaction_id": "HB-3000853E74C36485",
+        "xp_units": "30000000000000000000000",
+        "scan_status": "completed",
+        "date": "2026-04-16 05:20:26",
+        "order_id": 5761
+    }
+}
