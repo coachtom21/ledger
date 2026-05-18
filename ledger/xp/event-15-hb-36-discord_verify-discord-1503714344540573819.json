@@ -1,0 +1,22 @@
+{
+    "user_id": 15,
+    "action": "discord-verify",
+    "date": "2026-05-12T11:03:58+00:00",
+    "site": "humanblockchain",
+    "xp": {
+        "action": "discord_verify",
+        "xp_gained": "5000000",
+        "status": "completed"
+    },
+    "transaction_id": "discord-1503714344540573819",
+    "entry": {
+        "source": "discord_bot",
+        "event_id": "1503714344540573819",
+        "xp_units": "5000000",
+        "scan_status": "completed",
+        "discord_id": "1087338986047033364",
+        "guild_id": "1272657464893898753",
+        "discord_username": "_gokarna",
+        "date": "2026-05-12 11:03:58"
+    }
+}
