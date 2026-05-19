@@ -1,0 +1,13 @@
+{
+    "user_id": 15,
+    "action": "hb-delivery-order_reserve",
+    "date": "2026-05-19T04:42:39+00:00",
+    "site": "humanblockchain",
+    "row_id": 3,
+    "entry_type": "order_reserve",
+    "amount_cents": 30,
+    "transaction_id": "HB-9D8075A459ACBE15",
+    "order_id": 201,
+    "counterparty_user_id": 15,
+    "reserve_pledge_covered": true
+}
