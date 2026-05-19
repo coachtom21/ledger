@@ -1,0 +1,12 @@
+{
+    "user_id": 15,
+    "action": "hb-delivery-seller_trade_credit",
+    "date": "2026-05-19T04:44:35+00:00",
+    "site": "humanblockchain",
+    "row_id": 5,
+    "entry_type": "seller_trade_credit",
+    "amount_cents": 1030,
+    "transaction_id": "HB-9D8075A459ACBE15",
+    "order_id": 214,
+    "counterparty_user_id": 15
+}
