@@ -1,0 +1,12 @@
+{
+    "user_id": 15,
+    "action": "hb-delivery-buyer_rebate",
+    "date": "2026-05-19T04:42:37+00:00",
+    "site": "humanblockchain",
+    "row_id": 1,
+    "entry_type": "buyer_rebate",
+    "amount_cents": 500,
+    "transaction_id": "HB-9D8075A459ACBE15",
+    "order_id": 201,
+    "counterparty_user_id": 15
+}
