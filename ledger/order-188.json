@@ -1,10 +1,10 @@
 {
-    "date": "2026-05-25T05:12:51+00:00",
+    "date": "2026-05-26T04:57:21+00:00",
     "action": "order",
     "order_id": 188,
     "order_number": "188",
-    "order_total": "0.30",
+    "order_total": "3.00",
     "currency": "USD",
-    "status": "processing",
-    "date_created": "2026-04-30T06:54:59+00:00"
+    "status": "checkout-draft",
+    "date_created": "2026-05-04T11:06:43+00:00"
 }
