@@ -1,0 +1,10 @@
+{
+    "date": "2026-06-05T04:52:16+00:00",
+    "action": "order",
+    "order_id": 259,
+    "order_number": "259",
+    "order_total": "3.00",
+    "currency": "USD",
+    "status": "checkout-draft",
+    "date_created": "2026-06-04T07:05:11+00:00"
+}
