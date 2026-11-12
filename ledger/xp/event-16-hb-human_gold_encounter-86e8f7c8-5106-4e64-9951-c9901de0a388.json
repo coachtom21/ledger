@@ -1,0 +1,12 @@
+{
+    "user_id": 16,
+    "action": "human_gold_encounter",
+    "date": "2026-11-12T18:28:09+00:00",
+    "site": "humanblockchain",
+    "xp": {
+        "action": "human_gold_encounter",
+        "xp_gained": "1000000000000000000000",
+        "status": "confirmed"
+    },
+    "transaction_id": "86e8f7c8-5106-4e64-9951-c9901de0a388"
+}
